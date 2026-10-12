@@ -1,0 +1,10 @@
+{
+  "description": "Create a cohesive brand identity board for automotive services, showcasing logos, colors, typography, and mascots for professional presentations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
